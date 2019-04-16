@@ -1,0 +1,6 @@
+CREATE TABLE users (id INT NOT NULL AUTO_INCREMENT, username VARCHAR(255), password VARCHAR(255), PRIMARY_KEY(id));
+
+INSERT INTO users(username, password) VALUES('arnold', 'asldfjkoahefnlasdfasdfasdfasdffa');
+INSERT INTO users(username, password) VALUES('muldoon', 'asdfasdfasdfasgege3q4rwf3');
+INSERT INTO users(username, password) VALUES('nedry', 'asldfjkoahefn3t34345134523532452345lasdfasdfasdfasdffa');
+INSERT INTO users(username, password) VALUES('wu', 'a3452345sdfasdfasdfasasgasdfdffa');
